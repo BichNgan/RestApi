@@ -1,39 +1,39 @@
 ﻿[
   {
-	  "id":"C01",
-	  "city":"Paris",
+	"id":"C01",
+	"city":"Paris",
     "date": "2018-05-06",
     "temperatureC": 1,
     "summary": "Freezing",
     "temperatureF": 33
   },
   {
-	  "id":"C02",
-	  "city":"London",
+	"id":"C02",
+	"city":"London",
     "date": "2018-05-07",
     "temperatureC": 14,
     "summary": "Bracing",
     "temperatureF": 57
   },
   {
-	  "id":"C03",
-	  "city":"Berlin",
+	"id":"C03",
+	"city":"Berlin",
     "date": "2018-05-08",
     "temperatureC": -13,
     "summary": "Freezing",
     "temperatureF": 9
   },
   {
-	  "id":"C04",
-	  "city":"New York",
+	"id":"C04",
+	"city":"New York",
     "date": "2018-05-09",
     "temperatureC": -16,
     "summary": "Balmy",
     "temperatureF": 4
   },
   {
-	  "id":"C05",
-	  "city":"Praha",
+	"id":"C05",
+	"city":"Praha",
     "date": "2018-05-10",
     "temperatureC": -2,
     "summary": "Chilly",
